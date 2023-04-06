@@ -1,0 +1,6 @@
+"http://localhost:5000/img/copadelMundo30cm.jpg"
+"http://localhost:5000/img/copadelMundoMate.jpg"
+"http://localhost:5000/img/copadelMundoSoporteCelular.jpg"
+"http://localhost:5000/img/llaverocopadelMundo.jpg"
+"http://localhost:5000/img/copadelMundo14cm.jpg"
+"http://localhost:5000/img/copadelMundoFernet.jpg"

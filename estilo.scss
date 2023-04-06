@@ -1,0 +1,17 @@
+@import "./scss/cabeza";
+@import "./scss/cuerpo";
+@import "./scss/pie";
+@import "./scss/login";
+@import "./scss/registrarse";
+@import "./scss/regisProducto";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+	font-family: Arial, sans-serif;
+    background-color: #5e5f5f;
+}
+
+
